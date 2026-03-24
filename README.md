@@ -19,4 +19,5 @@ A comprehensive, console-based Library Management System developed using **Pytho
 * **نظام الاستعارة:** تتبع دقيق لحالة الكتب (متاح / مستعار).
 * **واجهة تفاعلية:** قوائم واضحة تسهل التنقل.
 
-#​Developed by: Mostafa Fayze | AI Student at FCAI 
+---
+#​ Developed by: Mostafa Fayze | AI Student at FCAI 
