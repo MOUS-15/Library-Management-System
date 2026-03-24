@@ -18,4 +18,3 @@ A comprehensive, console-based Library Management System developed using **Pytho
 * **إدارة شاملة:** إضافة وحذف الكتب والبحث المتطور.
 * **نظام الاستعارة:** تتبع دقيق لحالة الكتب (متاح / مستعار).
 * **واجهة تفاعلية:** قوائم واضحة تسهل التنقل.
-*
