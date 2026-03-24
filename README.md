@@ -20,4 +20,5 @@ A comprehensive, console-based Library Management System developed using **Pytho
 * **واجهة تفاعلية:** قوائم واضحة تسهل التنقل.
 
 ---
-#​## Developed by: Mostafa Fayze | AI Student at FCAI 
+
+### Developed by: Mostafa Fayze | AI Student at FCAI 
