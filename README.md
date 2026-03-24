@@ -25,4 +25,6 @@
 ​🛠️ التقنيات المستخدمة:
 ​اللغة: Python 3.x
 ​هيكلة البيانات: القواميس المتداخلة (Nested Dictionaries) لسرعة الوصول للمعلومات.
-​Developed by: Mostafa | AI Student at FCAI 🎓
+
+
+​Developed by: Mostafa Fayze | AI Student at FCAI 🎓
